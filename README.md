@@ -1,7 +1,7 @@
 # DCSRN-pytorch-master
 
 ## Introduction
-3D deep densely connected neural network (DCSRN) implemented using PyTorch
+3D deep densely connected neural network (DCSRN) implemented using PyTorch (**notice**: This is a third-party implementation and there may be bugs in the code)
 
 ## Prerequisites
 > pytorch >= 1.7.1  
